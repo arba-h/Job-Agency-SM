@@ -1,0 +1,100 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2">
+  <diagram name="Page-1" id="Ev_pv5gUjyhiwlgeQ5rb">
+    <mxGraphModel dx="788" dy="1624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NdAzmNw9hvXqr_ItbYyx-36" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="35.04" y="-150" width="689.92" height="689.92" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAzmNw9hvXqr_ItbYyx-28" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="92.5" y="-80" width="567.5" height="567.5" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAzmNw9hvXqr_ItbYyx-13" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="169.75" width="420" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAzmNw9hvXqr_ItbYyx-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="257.5" y="87.5" width="245" height="245" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAzmNw9hvXqr_ItbYyx-1" value="&lt;b&gt;Job Agency Management System&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="340" y="170" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAzmNw9hvXqr_ItbYyx-3" value="&lt;b&gt;Core system Users&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(HIGH involvement)&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="350" y="120" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAzmNw9hvXqr_ItbYyx-6" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon8;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="290" y="180" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAzmNw9hvXqr_ItbYyx-7" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon8;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="450" y="180" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAzmNw9hvXqr_ItbYyx-8" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon8;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="370" y="260" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAzmNw9hvXqr_ItbYyx-9" value="System Administration&lt;div&gt;(High)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="270" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAzmNw9hvXqr_ItbYyx-10" value="Recruiter&lt;div&gt;(High)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="430" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAzmNw9hvXqr_ItbYyx-11" value="IT Support Team&amp;nbsp;&lt;div&gt;(High)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="350" y="305" width="60" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAzmNw9hvXqr_ItbYyx-15" value="&lt;b&gt;Business Users (MEDIUM involvement)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="330" y="30" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAzmNw9hvXqr_ItbYyx-17" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon8;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="240.5" y="80" width="19.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAzmNw9hvXqr_ItbYyx-18" value="HR Departament&lt;div&gt;(Medium)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="210" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAzmNw9hvXqr_ItbYyx-19" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon8;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="490" y="80" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAzmNw9hvXqr_ItbYyx-20" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon8;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="230.38" y="250" width="19.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAzmNw9hvXqr_ItbYyx-21" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon8;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="510" y="247.5" width="20" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAzmNw9hvXqr_ItbYyx-22" value="Hiring Manager&lt;div&gt;(Medium)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAzmNw9hvXqr_ItbYyx-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="NdAzmNw9hvXqr_ItbYyx-22" target="NdAzmNw9hvXqr_ItbYyx-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAzmNw9hvXqr_ItbYyx-25" value="Candidate&amp;nbsp;&lt;div&gt;(Low-Medium)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="210.01" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAzmNw9hvXqr_ItbYyx-27" value="Business Executive/Owner&lt;div&gt;(Medium)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="305" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAzmNw9hvXqr_ItbYyx-29" value="&lt;br&gt;&lt;b&gt;External Stakeholders (LOW involvement)&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="340" y="-60" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAzmNw9hvXqr_ItbYyx-31" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon8;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="130" y="150" width="19.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAzmNw9hvXqr_ItbYyx-32" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon8;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="610" y="150" width="19.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAzmNw9hvXqr_ItbYyx-33" value="&lt;br&gt;Job Seeker&lt;div&gt;(Low)&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="102.5" y="200" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAzmNw9hvXqr_ItbYyx-35" value="&lt;br&gt;External Partners&lt;div&gt;(Low)&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="589.75" y="217.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAzmNw9hvXqr_ItbYyx-37" value="&lt;br&gt;&lt;b&gt;External Influencers&lt;br&gt;(LOW)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="350" y="-150" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAzmNw9hvXqr_ItbYyx-38" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon8;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="657.5" y="30" width="19.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NdAzmNw9hvXqr_ItbYyx-39" value="&lt;br&gt;Government/Regulatory Bodies&lt;div&gt;(Low)&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="660" y="90" width="50" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
