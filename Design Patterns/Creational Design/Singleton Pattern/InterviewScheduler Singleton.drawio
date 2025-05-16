@@ -1,0 +1,50 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2">
+  <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
+    <mxGraphModel dx="858" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" style=";html=1;" />
+        <mxCell id="1" style=";html=1;" parent="0" />
+        <mxCell id="doCAmgXHfgimJpQx-e7G-1" value="Client" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="70" y="140" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="doCAmgXHfgimJpQx-e7G-2" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="180" y="160" as="sourcePoint" />
+            <mxPoint x="300" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doCAmgXHfgimJpQx-e7G-3" value="InterviewSchedulerService" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="119.5" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="doCAmgXHfgimJpQx-e7G-4" value="- instance:&amp;nbsp;&lt;span style=&quot;text-align: center;&quot;&gt;InterviewSchedulerService&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="doCAmgXHfgimJpQx-e7G-3">
+          <mxGeometry y="26" width="240" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="doCAmgXHfgimJpQx-e7G-5" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="doCAmgXHfgimJpQx-e7G-3">
+          <mxGeometry y="52" width="240" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="doCAmgXHfgimJpQx-e7G-6" value="+scheduleInter(job,candidate,date,type)&lt;div&gt;+chechkAvailability(date)&lt;/div&gt;&lt;div&gt;+getInstannce(): InterviewSchedulerService&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="doCAmgXHfgimJpQx-e7G-3">
+          <mxGeometry y="60" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="doCAmgXHfgimJpQx-e7G-8" value="" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;exitX=1;exitY=0.558;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="160.00800000000004" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="570" y="160" />
+              <mxPoint x="570" y="130" />
+            </Array>
+            <mxPoint x="540" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doCAmgXHfgimJpQx-e7G-9" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.556;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.45;exitY=-0.043;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="doCAmgXHfgimJpQx-e7G-11" target="doCAmgXHfgimJpQx-e7G-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="310" as="sourcePoint" />
+            <mxPoint x="415" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="doCAmgXHfgimJpQx-e7G-11" value="&lt;span class=&quot;token&quot; style=&quot;&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;token&quot; style=&quot;&quot;&gt;(&lt;/span&gt;instance &lt;span class=&quot;token&quot; style=&quot;&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;token&quot; style=&quot;&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;token&quot; style=&quot;&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token&quot; style=&quot;&quot;&gt;{&lt;/span&gt;&lt;br&gt;        instance &lt;span class=&quot;token&quot; style=&quot;&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token&quot; style=&quot;&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;token&quot; style=&quot;&quot;&gt;InterviewSchedulerService&lt;/span&gt;&lt;span class=&quot;token&quot; style=&quot;&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token&quot; style=&quot;&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token&quot; style=&quot;&quot;&gt;;&lt;/span&gt;&lt;br&gt;    &lt;span class=&quot;token&quot; style=&quot;&quot;&gt;}&lt;/span&gt;&lt;br&gt;    &lt;span class=&quot;token&quot; style=&quot;&quot;&gt;return&lt;/span&gt; instance&lt;span class=&quot;token&quot; style=&quot;&quot;&gt;;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="360" y="300" width="160" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

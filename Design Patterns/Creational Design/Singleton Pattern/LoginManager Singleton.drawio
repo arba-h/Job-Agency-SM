@@ -1,0 +1,50 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2">
+  <diagram name="Page-1" id="6jBvat9qf7IG-aGNyt_C">
+    <mxGraphModel dx="858" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ifRfV686bpwNZJN65yCt-1" value="Client" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="70" y="140" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ifRfV686bpwNZJN65yCt-2" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="180" y="160" as="sourcePoint" />
+            <mxPoint x="300" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ifRfV686bpwNZJN65yCt-3" value="LoginManager" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="119.5" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ifRfV686bpwNZJN65yCt-4" value="- instance: LoginManager" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="ifRfV686bpwNZJN65yCt-3">
+          <mxGeometry y="26" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ifRfV686bpwNZJN65yCt-5" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="ifRfV686bpwNZJN65yCt-3">
+          <mxGeometry y="52" width="180" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="ifRfV686bpwNZJN65yCt-6" value="+login(username,password)&lt;div&gt;+logout(userId)&lt;/div&gt;&lt;div&gt;+getInstance():LoginManager&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="ifRfV686bpwNZJN65yCt-3">
+          <mxGeometry y="60" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ifRfV686bpwNZJN65yCt-7" value="" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;exitX=1;exitY=0.558;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ifRfV686bpwNZJN65yCt-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="485" y="160" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="510" y="160" />
+              <mxPoint x="510" y="130" />
+            </Array>
+            <mxPoint x="480" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ifRfV686bpwNZJN65yCt-8" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.556;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ifRfV686bpwNZJN65yCt-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="300" as="sourcePoint" />
+            <mxPoint x="415" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ifRfV686bpwNZJN65yCt-9" value="&lt;font style=&quot;color: rgb(56, 58, 66);&quot;&gt;&lt;span style=&quot;&quot; class=&quot;token&quot;&gt;if&lt;/span&gt; &lt;span style=&quot;&quot; class=&quot;token&quot;&gt;(&lt;/span&gt;instance &lt;span style=&quot;&quot; class=&quot;token&quot;&gt;==&lt;/span&gt; &lt;span style=&quot;&quot; class=&quot;token&quot;&gt;null&lt;/span&gt;&lt;span style=&quot;&quot; class=&quot;token&quot;&gt;)&lt;/span&gt; &lt;span style=&quot;&quot; class=&quot;token&quot;&gt;{&lt;/span&gt;&lt;br/&gt;        instance &lt;span style=&quot;&quot; class=&quot;token&quot;&gt;=&lt;/span&gt; &lt;span style=&quot;&quot; class=&quot;token&quot;&gt;new&lt;/span&gt; &lt;span style=&quot;&quot; class=&quot;token&quot;&gt;LoginManager&lt;/span&gt;&lt;span style=&quot;&quot; class=&quot;token&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;&quot; class=&quot;token&quot;&gt;)&lt;/span&gt;&lt;span style=&quot;&quot; class=&quot;token&quot;&gt;;&lt;/span&gt;&lt;br/&gt;    &lt;span style=&quot;&quot; class=&quot;token&quot;&gt;}&lt;/span&gt;&lt;br/&gt;    &lt;span style=&quot;&quot; class=&quot;token&quot;&gt;return&lt;/span&gt; instance&lt;span style=&quot;&quot; class=&quot;token&quot;&gt;;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="320" y="290" width="160" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
