@@ -1,0 +1,143 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2">
+  <diagram name="Page-1" id="Ijw7EoTUZHAgeEICwQ4Z">
+    <mxGraphModel dx="788" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dxe6g062G-jtdAPfFzZB-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.038;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dxe6g062G-jtdAPfFzZB-1" target="dxe6g062G-jtdAPfFzZB-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dxe6g062G-jtdAPfFzZB-1" value="Job Seeker" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="90" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dxe6g062G-jtdAPfFzZB-3" value="Employer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="190" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dxe6g062G-jtdAPfFzZB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.015;entryY=0.926;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dxe6g062G-jtdAPfFzZB-4" target="dxe6g062G-jtdAPfFzZB-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dxe6g062G-jtdAPfFzZB-4" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="320" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dxe6g062G-jtdAPfFzZB-8" value="&lt;b&gt;&lt;u&gt;Web browser&lt;/u&gt;&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;u&gt;Chrome/Mozilla/Opera etc&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;" vertex="1" parent="1">
+          <mxGeometry x="350" y="110" width="220" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="dxe6g062G-jtdAPfFzZB-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.015;entryY=0.421;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dxe6g062G-jtdAPfFzZB-3" target="dxe6g062G-jtdAPfFzZB-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dxe6g062G-jtdAPfFzZB-14" value="Database Server&lt;div&gt;&amp;lt;&amp;lt;SQL&amp;gt;&amp;gt;&lt;/div&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="50" y="530" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dxe6g062G-jtdAPfFzZB-15" value="SQL Server&amp;nbsp;&lt;div&gt;database&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="590" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dxe6g062G-jtdAPfFzZB-16" value="&lt;b&gt;Job Agency System Server&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="335" y="520" width="675" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="dxe6g062G-jtdAPfFzZB-17" value="Web Tier&lt;div&gt;&amp;lt;&amp;lt;Apache/Nginx&amp;gt;&amp;gt;&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="580" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dxe6g062G-jtdAPfFzZB-18" value="Database Access Layer" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="850" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dxe6g062G-jtdAPfFzZB-19" value="Log Files" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="840" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dxe6g062G-jtdAPfFzZB-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=115;exitDy=260;exitPerimeter=0;entryX=-0.017;entryY=0.601;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dxe6g062G-jtdAPfFzZB-8" target="dxe6g062G-jtdAPfFzZB-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dxe6g062G-jtdAPfFzZB-65" value="HTTP/HTTPS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dxe6g062G-jtdAPfFzZB-20">
+          <mxGeometry x="-0.7236" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dxe6g062G-jtdAPfFzZB-34" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0;entryY=0;entryDx=55;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="dxe6g062G-jtdAPfFzZB-14">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="290" y="880" as="sourcePoint" />
+            <mxPoint x="300" y="800" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="585" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dxe6g062G-jtdAPfFzZB-61" value="SQL" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dxe6g062G-jtdAPfFzZB-34">
+          <mxGeometry x="-0.1662" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dxe6g062G-jtdAPfFzZB-35" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0.029;entryY=0.553;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="dxe6g062G-jtdAPfFzZB-18">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="290" y="878" as="sourcePoint" />
+            <mxPoint x="480" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dxe6g062G-jtdAPfFzZB-37" value="Application Server&lt;div&gt;&amp;lt;&amp;lt;Java/Spring/.NET&amp;gt;&amp;gt;&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="580" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dxe6g062G-jtdAPfFzZB-39" value="Authentication&amp;amp;Security&lt;div&gt;&amp;lt;&amp;lt;&amp;lt;JWT/OAuth/ LDAP&amp;gt;&amp;gt;&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="580" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dxe6g062G-jtdAPfFzZB-41" value="&lt;b&gt;Business Logic Module&lt;/b&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="680" width="330" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="dxe6g062G-jtdAPfFzZB-43" value="&lt;li class=&quot;whitespace-normal break-words&quot;&gt;Job posting management&lt;/li&gt;&lt;br/&gt;&lt;li class=&quot;whitespace-normal break-words&quot;&gt;Candidate tracking&lt;/li&gt;&lt;br/&gt;&lt;li class=&quot;whitespace-normal break-words&quot;&gt;Interview scheduling&lt;/li&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="695" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dxe6g062G-jtdAPfFzZB-45" value="&lt;br&gt;&lt;li class=&quot;whitespace-normal break-words&quot;&gt;Resume/CV parsing&lt;/li&gt;&lt;br&gt;&lt;li class=&quot;whitespace-normal break-words&quot;&gt;Reporting and analytics&lt;/li&gt;&lt;br&gt;&lt;li class=&quot;whitespace-normal break-words&quot;&gt;Billing systems&lt;/li&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="685" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dxe6g062G-jtdAPfFzZB-46" value="Integration Service&lt;div&gt;External Job Boards API&lt;/div&gt;&lt;div&gt;Email/SMS Gateway&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="710" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dxe6g062G-jtdAPfFzZB-57" value="API call" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.052;entryY=0.56;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dxe6g062G-jtdAPfFzZB-17" target="dxe6g062G-jtdAPfFzZB-37">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="500" y="540" as="sourcePoint" />
+            <mxPoint x="660" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dxe6g062G-jtdAPfFzZB-59" value="" style="endArrow=none;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="dxe6g062G-jtdAPfFzZB-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="570" as="sourcePoint" />
+            <mxPoint x="598" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dxe6g062G-jtdAPfFzZB-60" value="Data Acces" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dxe6g062G-jtdAPfFzZB-41" target="dxe6g062G-jtdAPfFzZB-18">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="500" y="810" as="sourcePoint" />
+            <mxPoint x="660" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dxe6g062G-jtdAPfFzZB-62" value="Log Events" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=15;entryPerimeter=0;" edge="1" parent="1" source="dxe6g062G-jtdAPfFzZB-37" target="dxe6g062G-jtdAPfFzZB-19">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="500" y="760" as="sourcePoint" />
+            <mxPoint x="660" y="760" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="655" y="660" />
+              <mxPoint x="720" y="660" />
+              <mxPoint x="720" y="855" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dxe6g062G-jtdAPfFzZB-63" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Token/Auth Request&lt;/font&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.048;entryY=0.573;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dxe6g062G-jtdAPfFzZB-37" target="dxe6g062G-jtdAPfFzZB-39">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="670" y="760" as="sourcePoint" />
+            <mxPoint x="830" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dxe6g062G-jtdAPfFzZB-64" value="API Call" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dxe6g062G-jtdAPfFzZB-37" target="dxe6g062G-jtdAPfFzZB-46">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="670" y="760" as="sourcePoint" />
+            <mxPoint x="830" y="760" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="840" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
